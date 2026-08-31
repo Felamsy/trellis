@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "dependabot/cargo/cargo-minor-patch-0ff7e31cb4",
+    "dependabot/cargo/soroban-sdk-27.0.4",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/actions/upload-artifact-7",
+    "dependabot/github_actions/codecov/codecov-action-7",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/cargo-minor-patch-0ff7e31cb4": "master",
+    "dependabot/cargo/soroban-sdk-27.0.4": "master",
+    "dependabot/github_actions/actions/checkout-7": "master",
+    "dependabot/github_actions/actions/setup-node-7": "master",
+    "dependabot/github_actions/actions/upload-artifact-7": "master",
+    "dependabot/github_actions/codecov/codecov-action-7": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "dependabot/cargo/cargo-minor-patch-0ff7e31cb4",
+    "dependabot/cargo/soroban-sdk-27.0.4",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/actions/upload-artifact-7",
+    "dependabot/github_actions/codecov/codecov-action-7",
+    "origin"
+  ]
+}
